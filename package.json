@@ -12,7 +12,8 @@
     "test:e2e": "node scripts/browser-test.mjs"
   },
   "dependencies": {
-    "three": "^0.185.1"
+    "three": "^0.185.1",
+    "vercel": "^56.5.0"
   },
   "devDependencies": {
     "playwright-core": "^1.61.1",
